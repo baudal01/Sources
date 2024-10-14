@@ -2,6 +2,8 @@
 
 
 une modif 
+
+Je suis cette formation pour apprendre à mieux maitriser GitLab
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
